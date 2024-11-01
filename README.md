@@ -3,11 +3,11 @@
 ![GitHub Banner](https://your-image-url.com/banner.png) <!-- Use a link to your image hosted online -->
 
 ## 🌐 About Me
-I'm a Software Developer specializing in MERN Stack, with experience in frontend and backend development. I love building projects that solve real-world problems, like my [Agriculture Rental Machine Platform (farmec.com)](https://github.com/meshackkiplimo/Tiba).
+I'm a Software Developer specializing in Fullstack, with experience in frontend and backend development. I love building projects that solve real-world problems.
 
 - 💼 Open to software developer internships or junior roles
-- 🎓 Graduate of [University of Eastern Africa, Baraton](https://www.ueab.ac.ke/)
-- 🖥️ I build with **HTML, CSS, JavaScript, PHP, MySQL, React, Node.js, MongoDB, Express**
+- 🎓 Student of [University of Eastern Africa, Baraton](https://www.ueab.ac.ke/)
+- 🖥️ I build with **HTML, CSS, JavaScript, nodejs, MySQL, React, Node.js, MongoDB, Express,MYSQL,Typescript,Dart,Python,Nextjs**
 - 📧 Reach me at [meshackkimaiyo5@gmail.com](mailto:meshackkimaiyo5@gmail.com)
 
 ## 🔧 Tech Stack
@@ -26,8 +26,8 @@ I'm a Software Developer specializing in MERN Stack, with experience in frontend
 </p>
 
 ## 🌟 Featured Projects
-- [**Agriculture Rental Machine Platform (farmec.com)**](https://github.com/meshackkiplimo/Tiba) – Developed with MERN Stack and includes payment integration and authentication.
-- [**Shopping Platform**](https://github.com/meshackkiplimo/shopping) – An ecommerce platform with real-time product management.
+- [**Agriculture Rental Machine Platform (farmec.com)**](https://github.com/meshackkiplimo/) – Developed with MERN Stack and includes payment integration and authentication.
+- [**Shopping Platform**](https://github.com/meshackkiplimo/) – An ecommerce platform with real-time product management.
 
 ## 🔗 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
