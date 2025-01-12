@@ -1,7 +1,7 @@
 # Hello, Iam Meshack Kimaiyo.
 
 
-## trying some cool stuff hear
+## I Love trying some cool stuff and exploring
 
 
 
