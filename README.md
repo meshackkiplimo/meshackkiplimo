@@ -1,4 +1,7 @@
-# trying some cool stuff hear
+# Hello, Iam Meshack Kimaiyo.
+
+
+## trying some cool stuff hear
 
 
 
