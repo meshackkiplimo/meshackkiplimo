@@ -25,4 +25,3 @@
 - [Twitter](https://x.com/meshackkimaiyo4)
 - [GitHub](https://github.com/meshackkiplimo)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=meshackkiplimo.meshackkiplimo)
