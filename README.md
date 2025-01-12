@@ -21,8 +21,8 @@
 
 
 ## 🔗 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/meshack-kimaiyo-692432255/)
+- [Twitter](https://x.com/meshackkimaiyo4)
 - [GitHub](https://github.com/meshackkiplimo)
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=meshackkiplimo.meshackkiplimo)
