@@ -1,8 +1,4 @@
 # Hello, Iam Meshack Kimaiyo.
-![Your Image Description](![image](https://github.com/user-attachments/assets/d29228d0-4296-4436-9d94-d79f5c500873)
-)
-
-
 ## I Love trying some cool stuff and exploring
 
 
