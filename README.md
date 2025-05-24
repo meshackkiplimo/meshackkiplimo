@@ -5,7 +5,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Python, JavaScript, TypeScript, Java, C++
-- **Frameworks**: React, Angular, Node.js, Django, Flask
+- **Frameworks**: React, Angular, Node.js, Nuxt, Next, Express
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions
 - **Cloud**: AWS, Azure, Google Cloud
@@ -29,6 +29,8 @@ I'm a passionate software developer with a keen interest in open-source projects
 - [My Tech Blog](https://meshackkiplimo.blog) - I write about software development, cloud computing, and AI.
 
 ## 📈 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=meshackkiplimo&color=brightgreen)
 
 ![Meshack's GitHub stats](https://github-readme-stats.vercel.app/api?username=meshackkiplimo&show_icons=true&theme=radical)
 
