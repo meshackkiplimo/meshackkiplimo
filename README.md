@@ -14,8 +14,8 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 - Advanced Machine Learning techniques
 - Rust programming language
-- Blockchain development
-
+- dotnet
+- go
 ## 📫 How to reach me
 
 - **Email**: meshackkimaiyo5@gmail.com
@@ -30,11 +30,11 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## 📈 GitHub Stats
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmeshackkiplimo%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views+%28Today%2FTotal%29&edge_flat=false)
+![](https://komarev.com/ghpvc/?username=meshackkiplimo&label=Profile%20Views&color=0e75b6&style=flat)
 
 ![Meshack's GitHub stats](https://github-readme-stats.vercel.app/api?username=meshackkiplimo&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meshackkiplimo&layout=compact&theme=radical)](https://github.com/meshackkiplimo)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meshackkiplimo&layout=compact&theme=radical&hide=html,css&langs_count=8&exclude_repo=meshackkiplimo.github.io)](https://github.com/meshackkiplimo)
 
 ## 🏆 GitHub Trophies
 
