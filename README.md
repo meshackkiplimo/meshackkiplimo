@@ -32,9 +32,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ![](https://komarev.com/ghpvc/?username=meshackkiplimo&label=Profile%20Views&color=0e75b6&style=flat)
 
-![Meshack's GitHub stats](https://github-readme-stats.vercel.app/api?username=meshackkiplimo&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meshackkiplimo&layout=compact&theme=radical&hide=html,css&langs_count=8&exclude_repo=meshackkiplimo.github.io)](https://github.com/meshackkiplimo)
+![Meshack's GitHub stats](https://github-readme-stats.vercel.app/api?username=meshackkiplimo&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ## 🏆 GitHub Trophies
 
